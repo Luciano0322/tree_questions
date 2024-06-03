@@ -1,0 +1,13 @@
+{
+  "name": "tree_questions",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "for interview",
+  "main": "index.js",
+  "repository": "https://github.com/Luciano0322/tree_questions.git",
+  "author": "Luciano",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
